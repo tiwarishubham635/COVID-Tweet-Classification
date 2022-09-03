@@ -3,7 +3,7 @@ This model aims to classify tweets related to COVID-19 into positive or negative
 It basically implements the text classification application of the Natural Language Processing.
 
 ### Demo
-https://tiwarishubham635.github.io/COVID-Tweet-Classification
+https://github.com/tiwarishubham635/COVID-Tweet-Classification/blob/main/COVID_Tweet_Classification.ipynb
 
 ### Dataset
 The model is trained using the kaggle dataset of tweets regarding COVID-19.
